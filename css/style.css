@@ -1,0 +1,160 @@
+*{
+    font-family: Arial;
+}
+body {
+    color: #e2f0f8;
+}
+
+
+.top-nav {
+    background-color: #ffffff;
+}
+
+.total {
+    text-align: center;
+    margin-left: 10px;
+}
+
+.contact,
+p {
+    text-align: right;
+}
+
+.logo {
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+.nav-link {
+    color: #5f6973;
+    font-size: 24px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.nav-link:hover {
+    background-color: #7cc4d6;
+    color: #ffffff;
+}
+
+.total {
+    margin-top: 77px;
+    margin-left: 135px;
+    font-size: 22.99px;
+    font-weight: 400;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.q {
+    color: #f36240;
+}
+
+.work,
+.tel {
+    margin-right: 28px;
+    color: #484745;
+    text-align: right;
+}
+
+.work {
+    margin-top: 60px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.tel {
+    font-size: 31px;
+    font-weight: 400;
+}
+
+.info {
+    padding-left: 8px;
+    padding-top: 40px;
+    margin: 0 auto;
+    width: 1145px;
+    height: 192px;
+}
+
+.info div {
+    color: #4b4b4b;
+    font-size: 64.01px;
+    font-weight: 400;
+    text-align: left;
+}
+
+.info p {
+    color: #4b4b4b;
+    font-size: 25.99px;
+    font-weight: 400;
+    text-align: left;
+}
+
+
+.left-sidedar {
+    padding-bottom: 36px;
+    margin-top: 25px;
+    background-color: #ffffff;
+}
+.sidedar li{
+    
+    margin-bottom: 8px;
+    list-style-type: none;
+}
+.left-sidedar p {
+    color: #4b4b4b;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.left-sidedar a {
+    color: #8a8a8a;
+    font-size: 16px;
+    font-weight: 400;
+    text-decoration: underline;
+    text-align: left;
+}
+
+.left-sidedar a:hover {
+    color: #ec5720;
+    font-size: 16px;
+    font-weight: 400;
+    text-decoration: underline;
+    text-align: left;
+}
+
+.content {
+    margin-top: 26px;
+    background-color: #ffffff;
+    width: 877px;
+}
+
+.content > p {
+    padding-left: 16px;
+    color: #484848;
+    font-size: 25.99px;
+    font-weight: 400;
+    text-align: left;
+}
+
+div > img {
+    margin-left: 80px;
+}
+
+div > article {
+    margin-left: 121px;
+    margin-top: 43px;
+    color: #a6a6a6;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.options{
+    
+    color:  #484848;
+font-size: 14px;
+font-weight: 400;
+text-align: left;
+
+}
